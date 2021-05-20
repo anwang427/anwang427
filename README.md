@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center">I'm Anna: a Systems Design Engineering student at Waterloo, aspiring founder in the climate space, and tinkerer. </p>
+<p align="center">I'm Anna: founder, tinkerer, flaneur. </p>
 
 <!--
 <table align="center"> 
