@@ -8,9 +8,7 @@
 
 <br>
 
-<p align="center">I'm Anna: founder, tinkerer, flaneur.
-
-Status: updated 2020
+<p align="center">Status: updated 2020, outdated.
 </p>
 
 <!--
