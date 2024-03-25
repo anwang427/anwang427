@@ -8,7 +8,10 @@
 
 <br>
 
-<p align="center">I'm Anna: founder, tinkerer, flaneur. </p>
+<p align="center">I'm Anna: founder, tinkerer, flaneur.
+
+Status: updated 2020
+</p>
 
 <!--
 <table align="center"> 
