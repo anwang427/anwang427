@@ -8,7 +8,7 @@
 
 <br>
 
-<p align="center">Status: updated 2020, outdated.
+<p align="center">Status: updated 2021, outdated.
 </p>
 
 <!--
